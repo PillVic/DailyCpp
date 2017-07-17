@@ -1,0 +1,11 @@
+﻿  源.cpp
+  CRectangle.cpp
+f:\vs\experiment\类与对象（二）\类与对象（二）\crectangle.cpp(18): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+f:\vs\experiment\类与对象（二）\类与对象（二）\crectangle.cpp(19): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+f:\vs\experiment\类与对象（二）\类与对象（二）\crectangle.cpp(20): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+f:\vs\experiment\类与对象（二）\类与对象（二）\crectangle.cpp(23): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+f:\vs\experiment\类与对象（二）\类与对象（二）\crectangle.cpp(24): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+f:\vs\experiment\类与对象（二）\类与对象（二）\crectangle.cpp(25): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+  正在生成代码...
+  类与对象（二）.vcxproj -> F:\VS\Experiment\类与对象（二）\Debug\类与对象（二）.exe
+  类与对象（二）.vcxproj -> F:\VS\Experiment\类与对象（二）\Debug\类与对象（二）.pdb (Partial PDB)

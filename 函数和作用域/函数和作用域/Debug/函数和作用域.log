@@ -1,0 +1,16 @@
+﻿  Man.cpp
+f:\vs\experiment\函数和作用域\函数和作用域\man.cpp(8): warning C4305: “初始化”: 从“double”到“float”截断
+f:\vs\experiment\函数和作用域\函数和作用域\man.cpp(25): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+f:\vs\experiment\函数和作用域\函数和作用域\man.cpp(28): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+f:\vs\experiment\函数和作用域\函数和作用域\man.cpp(31): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  源.cpp
+  正在生成代码...
+  正在编译...
+  Number.cpp
+f:\vs\experiment\函数和作用域\函数和作用域\number.cpp(7): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs\experiment\函数和作用域\函数和作用域\number.cpp(8): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+  函数和作用域.vcxproj -> F:\VS\Experiment\函数和作用域\Debug\函数和作用域.exe
+  函数和作用域.vcxproj -> F:\VS\Experiment\函数和作用域\Debug\函数和作用域.pdb (Partial PDB)
